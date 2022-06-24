@@ -2059,6 +2059,10 @@ h6 {
         padding-top: 80px;
         padding-bottom: 50px;
     }
+    .portfolio .portfolio-content .item .overlay .item-category .pj {
+        display: inline-block;
+        width: 100%;
+    }
     .portfolio .portfolio-content .item .overlay .item-title,
     .portfolio .portfolio-content .item .overlay .item-category span {
         font-size: 18px;
