@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdouguo"]=self["webpackChunkdouguo"]||[]).push([[662],{662:function(u,e,n){n.r(e),n.d(e,{default:function(){return a}});var t=function(){var u=this,e=u.$createElement,n=u._self._c||e;return n("div",{staticClass:"shop"})},s=[],c={name:"Shop"},l=c,o=n(1001),r=(0,o.Z)(l,t,s,!1,null,"66df27c1",null),a=r.exports}}]);
+//# sourceMappingURL=662.bbebc159.js.map
